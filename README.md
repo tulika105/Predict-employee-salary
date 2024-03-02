@@ -1,4 +1,3 @@
-![Screenshot 2024-03-03 023438](https://github.com/tulika105/predict_employee_salary/assets/159255355/41560dda-7cf4-437b-b7bf-5e89ab4ba45a)
 # predict_employee_salary
 This repository contains the codebase for an employee salary prediction project. Using machine learning techniques, it aims to forecast the salaries of employees based on various features such as age, gender, years of experience, education level and  job title. Additionally, it provides tools for data visualization and model evaluation.
 # About the project
@@ -16,3 +15,4 @@ We performed feature engineering such as label encoding to convert categorical c
 -	Scikit-learn
 # Model Deployment using Streamlit
 https://predictemployeesalary-zsiyn79qffgvwbx8mtxbbo.streamlit.app/
+![Screenshot 2024-03-03 023438](https://github.com/tulika105/predict_employee_salary/assets/159255355/41560dda-7cf4-437b-b7bf-5e89ab4ba45a)
