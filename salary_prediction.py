@@ -1,6 +1,5 @@
 import pandas as pd
 import numpy as np
-from sklearn.preprocessing import LabelEncoder
 import pickle
 import streamlit as st
 def load_model():
