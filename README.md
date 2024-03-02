@@ -13,4 +13,5 @@ We performed feature engineering such as label encoding to convert categorical c
 -	Matplotlib
 -	Seaborn
 -	Scikit-learn
-
+# Model Deployment using Streamlit
+https://predictemployeesalary-zsiyn79qffgvwbx8mtxbbo.streamlit.app/
