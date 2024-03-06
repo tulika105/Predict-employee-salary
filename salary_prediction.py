@@ -3,7 +3,6 @@ import numpy as np
 import pickle
 import streamlit as st
 def load_model():
-    ```2
     pickle_in = open("lr_model.pkl","rb")
     lr_model = pickle.load(pickle_in)
     return lr_model
