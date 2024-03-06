@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import pickle
 import streamlit as st
+import sklearn
 def load_model():
     pickle_in = open("lr_model.pkl","rb")
     lr_model = pickle.load(pickle_in)
