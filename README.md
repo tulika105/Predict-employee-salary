@@ -18,3 +18,4 @@ https://predictemployeesalary-carqjkzjmsugw2n44llwx5.streamlit.app/
 -	Matplotlib
 -	Seaborn
 -	Scikit-learn
+- Streamlit
