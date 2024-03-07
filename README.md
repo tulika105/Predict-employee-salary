@@ -9,6 +9,7 @@ We performed feature engineering such as label encoding to convert categorical c
 # Model Deployment using Streamlit
 https://predictemployeesalary-carqjkzjmsugw2n44llwx5.streamlit.app/
 
+
 ![Screenshot 2024-03-03 023438](https://github.com/tulika105/predict_employee_salary/assets/159255355/41560dda-7cf4-437b-b7bf-5e89ab4ba45a)
 
 # Technologies used
